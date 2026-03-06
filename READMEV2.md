@@ -36,10 +36,10 @@
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
 | INE: Assessment Methodologies - Info Gathering | **5h 34m** (V: 3h 44m / A: 1h 50m) | [ ] |
-| THM: Hacker Methodology | - | [ ] |
-| THM: Intro To Research | - | [ ] |
-| THM: Passive Recon | - | [ ] |
-| Blog: 5 Phases of Hacking | - | [ ] |
+| THM: [Hacker Methodology](https://tryhackme.com/room/hackermethodology) | [ ] |
+| THM: [Intro To Research](https://tryhackme.com/room/introtoresearch) | [ ] |
+| THM: [Passive Recon](https://tryhackme.com/room/passiverecon) | [ ] |
+| Blog: [5 Phases of Hacking](https://medium.com/@ajithchandranr/ethical-hacking-5-phases-techniques-and-tools-e760d092f70e) | [ ] |
 
 ### Week 2 (March 12 - March 18)
 | Task | Est. Time | Status |
