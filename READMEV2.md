@@ -1,7 +1,3 @@
-<img src="banner/ejpt_image.jpeg" alt="Ejpt Roadmap Logo" height=350>
-
-<br>
-<hr>
 
 # Ejpt Roadmap: 12-Week Integrated Sprint (March 5 - May 26)
 
