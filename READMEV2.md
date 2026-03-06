@@ -80,4 +80,112 @@
 ### Week 5 (April 2 - April 8)
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
-| INE: Assessment Methodologies - Auditing Fundamentals | **3h 58m** (V: 2h 38m / A: 1h
+| INE: Assessment Methodologies - Auditing Fundamentals | **3h 58m** (V: 2h 38m / A: 1h 20m) | [ ] |
+| THM: Vulnerabilities 101 | - | [ ] |
+| THM: Nessus | - | [ ] |
+| Blog: Vulnerability Research 101 | - | [ ] |
+| Blog: What is a CVE? | - | [ ] |
+
+### Week 6 (April 9 - April 15)
+| Task | Est. Time | Status |
+| :--- | :--- | :---: |
+| INE: Host & Network Pen Testing - System/Host Attacks | **20h 28m** (V: 7h 58m / A: 12h 30m) | [ ] |
+| THM: Windows Fundamentals 1 | - | [ ] |
+| THM: Windows Fundamentals 2 | - | [ ] |
+| Blog: Exploit-DB Guide | - | [ ] |
+| Blog: Attacking SMB via Metasploit/PSexec | - | [ ] |
+
+---
+
+## Phase 4: Network Attacks & Metasploit (Weeks 7-8)
+
+### Week 7 (April 16 - April 22)
+| Task | Est. Time | Status |
+| :--- | :--- | :---: |
+| INE: Host & Network Pen Testing - Network-Based Attacks | **4h 47m** (V: 2h 17m / A: 2h 30m) | [ ] |
+| THM: Blue | - | [ ] |
+| THM: Ice | - | [ ] |
+| THM: Dirty Pipe: CVE-2022-0847 | - | [ ] |
+| THM: Wireshark: The Basics | - | [ ] |
+
+### Week 8 (April 23 - April 29)
+*Note: MSF is a massive module. Prioritize this week heavily.*
+| Task | Est. Time | Status |
+| :--- | :--- | :---: |
+| INE: Host & Network Pen Testing - Metasploit Framework | **35h 29m** (Breakdown N/A) | [ ] |
+| THM: Metasploit: Introduction | - | [ ] |
+| THM: Metasploit: Exploitation | - | [ ] |
+| THM: Metasploit: Meterpreter | - | [ ] |
+| THM: HeartBleed | - | [ ] |
+| THM: Deja Vu | - | [ ] |
+| Blog: MSFVenom Guide | - | [ ] |
+
+---
+
+## Phase 5: Exploitation & Post-Exploitation (Weeks 9-10)
+
+### Week 9 (April 30 - May 6)
+| Task | Est. Time | Status |
+| :--- | :--- | :---: |
+| INE: Host & Network Penetration Testing: Exploitation | **20h 49m** (V: 8h 19m / A: 12h 30m) | [ ] |
+| THM: What the Shell? | - | [ ] |
+| THM: Steel Mountain | - | [ ] |
+| THM: Poster | - | [ ] |
+| Blog: Reverse Shell vs Bind Shell | - | [ ] |
+| Blog: Use John the Ripper in Metasploit | - | [ ] |
+
+### Week 10 (May 7 - May 13)
+| Task | Est. Time | Status |
+| :--- | :--- | :---: |
+| INE: Host & Network Penetration Testing: Post-Exploitation | **26h 33m** (V: 8h 43m / A: 17h 50m) | [ ] |
+| THM: Windows PrivEsc & Arena | - | [ ] |
+| THM: Linux PrivEsc & Arena | - | [ ] |
+| THM: Bypassing UAC | - | [ ] |
+| THM: Wreath (Pivoting Section) | - | [ ] |
+| THM: Credentials Harvesting | - | [ ] |
+| Blog: Pivoting Technique Guide | - | [ ] |
+
+---
+
+## Phase 6: Web Apps, AI & Final Content (Week 11)
+
+### Week 11 (May 14 - May 18) **(COMPLETION TARGET)**
+| Task | Est. Time | Status |
+| :--- | :--- | :---: |
+| INE: Web App Pen Testing - Intro to Web & HTTP | **11h 51m** (V: 6h 51m / A: 5h 0m) | [ ] |
+| INE: Host & Network Pen Testing - Social Engineering | **3h 11m** (V: 2h 11m / A: 1h 0m) | [ ] |
+| INE: Offensive AI - Generative AI for Pentesters | **4h 44m** (V: 2h 54m / A: 1h 50m) | [ ] |
+| THM: OWASP Top 10 | - | [ ] |
+| THM: SQLMAP | - | [ ] |
+| THM: OWASP Juice Shop | - | [ ] |
+| THM: Vulnversity | - | [ ] |
+| THM: Hydra | - | [ ] |
+| **MARK ALL NEW CONTENT AS COMPLETE BY MAY 18** | - | [ ] |
+
+---
+
+## Phase 7: THE RECAP WEEK (Week 12)
+
+### Week 12 (May 19 - May 25)
+| Task | Est. Time | Status |
+| :--- | :--- | :---: |
+| Re-do INE PTS Labs (all of them) without hints | Varies | [ ] |
+| Review all personal notes and command cheatsheets | Varies | [ ] |
+| Final Lab: THM Blog | - | [ ] |
+| **EXAM DAY: MAY 26** | **Up to 48h** | [ ] |
+
+---
+
+## Ejpt notes available online
+- [Notes by PakCyberbot](https://github.com/PakCyberbot/eJPTv2-Notes)
+- [Notes by NeilMadava](https://github.com/neilmadhava/EJPTv2-Notes)
+- [Notes by edoardottt](https://github.com/edoardottt/eJPT-notes)
+- [Cheatsheet by seergiovks](https://sezioss-gitbook.gitbook.io/ejptv2cheatsheet/)
+- [Cheatsheet by xalgord](https://github.com/xalgord/ejPTv2-Preparation)
+
+## Ejpt Exam Experience
+- [Exam Experience by Pr0tag0nist](https://www.youtube.com/watch?v=NIAj4VKr_AM&list=PLR6J_t8cpbRHpfKuBsv8i_EaeKcPTusdR)
+- [Exam Experience by PakCyberbot](https://youtu.be/2s8BYjXUjGA)
+- [My eJPTv2.0 exam review by Siddhart Shree Kaushik](https://blog.killswitchx7.com/my-ejptv2-0-exam-review)
+- [eJPTv2 Success Unlocked](https://www.youtube.com/watch?v=FnV3qjDiS9A)
+- [Mastering the eJPTv2 Exam](https://infosecwriteups.com/mastering-the-ejptv2-exam-ec38daec16bc)
