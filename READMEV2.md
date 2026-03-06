@@ -45,10 +45,10 @@
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
 | INE: Assessment Methodologies - Footprinting & Scanning | **11h 16m** (V: 6h 6m / A: 5h 10m) | [ ] |
-| THM: Active Recon | - | [ ] |
-| THM: Nmap | - | [ ] |
-| Blog: Active vs Passive Recon | - | [ ] |
-| Blog: Understanding Reconnaissance and Footprinting | - | [ ] |
+| THM: [Active Recon](https://tryhackme.com/room/activerecon) | [ ] |
+| THM: [Nmap](https://tryhackme.com/room/furthernmap) | [ ] |
+| Blog: [Active vs Passive Recon](https://medium.com/@twistedcircuits/active-vs-passive-reconnaissance-understanding-the-difference-84d7c6d624b7) | [ ] |
+| Blog: [Understanding Reconnaissance and Footprinting](https://osintteam.blog/understanding-reconnaissance-and-footprinting-in-ethical-hacking-ff1a92a5a619) | [ ] |
 
 ---
 
@@ -58,20 +58,20 @@
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
 | INE: Assessment Methodologies - Enumeration | **8h 45m** (V: 2h 45m / A: 6h 0m) | [ ] |
-| THM: Nmap Post Port Scan | - | [ ] |
-| THM: Network Services | - | [ ] |
-| Blog: Enumerating a new network with Nmap | - | [ ] |
-| Blog: Enumeration guide for beginners | - | [ ] |
+| THM: [Nmap Post Port Scan](https://tryhackme.com/room/nmap04) | [ ] |
+| THM: [Network Services](https://tryhackme.com/room/networkservices) | [ ] |
+| Blog: [Enumerating a new network with Nmap](https://www.redhat.com/sysadmin/enumerating-network-nmap) | [ ] |
+| Blog: [Enumeration guide for beginners](https://www.hackercoolmagazine.com/enumeration-guide-for-beginners/) | [ ] |
 
 ### Week 4 (March 26 - April 1)
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
 | INE: Assessment Methodologies - Vulnerability Assessment | **7h 1m** (V: 3h 41m / A: 3h 20m) | [ ] |
-| Blog: Nmap Scripts (NSE) Guide | - | [ ] |
-| Blog: NSE with Hands on Practice | - | [ ] |
-| Blog: Enumerate SMB Guide | - | [ ] |
-| Blog: Scanning SMB Vulnerabilities | - | [ ] |
-| Blog: How to Use Hydra to Hack Passwords | - | [ ] |
+| Blog: [Nmap Scripts (NSE) Guide](https://securitytrails.com/blog/nmap-scripts-nse) | [ ] |
+| Blog: [NSE with Hands on Practice](https://koayyongcett.medium.com/lesson-11-network-vulnerability-and-scanning-explanation-of-nmap-script-engine-nse-with-hands-70a98311cae8) | [ ] |
+| Blog: [Enumerate SMB Guide](https://null-byte.wonderhowto.com/how-to/enumerate-smb-with-enum4linux-smbclient-0198049/) | [ ] |
+| Blog: [Scanning SMB Vulnerabilities](https://infosecwriteups.com/scanning-for-smb-vulnerabilities-with-enum4linux-896f76d0c078) | [ ] |
+| Blog: [How to Use Hydra to Hack Passwords](https://www.freecodecamp.org/news/how-to-use-hydra-pentesting-tutorial/) | [ ] |
 
 ---
 
