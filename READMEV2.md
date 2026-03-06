@@ -32,8 +32,10 @@
 | INE: Assessment Methodologies - Info Gathering | **5h 34m** | [ ] |
 | INE: Assessment Methodologies - Footprinting & Scanning | **11h 16m** | [ ] |
 | THM: [Hacker Methodology](https://tryhackme.com/room/hackermethodology) | **45m** | [ ] |
-| THM: [Intro To Research](https://tryhackme.com/room/introtoresearch) & [Passive Recon](https://tryhackme.com/room/passiverecon) | **1h 45m** | [ ] |
-| THM: [Active Recon](https://tryhackme.com/room/activerecon) & [Nmap](https://tryhackme.com/room/furthernmap) | **1h 50m** | [ ] |
+| THM: [Intro To Research](https://tryhackme.com/room/introtoresearch) | **45m** | [ ] |
+| THM: [Passive Recon](https://tryhackme.com/room/passiverecon) | **60m** | [ ] |
+| THM: [Active Recon](https://tryhackme.com/room/activerecon) | **60m** | [ ] |
+| THM: [Nmap](https://tryhackme.com/room/furthernmap) | **50m** | [ ] |
 
 ### Week 2 (March 12 - March 18) | *Est. Load: ~18 Hours*
 | Task | Est. Time | Status |
@@ -53,15 +55,18 @@
 | :--- | :--- | :---: |
 | INE: Assessment Methodologies - Auditing Fundamentals | **3h 58m** | [ ] |
 | INE: Host & Network Pen Testing - System/Host Attacks | **20h 28m** | [ ] |
-| THM: [Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101) & [Nessus](https://tryhackme.com/room/rpnessusredux) | **1h 5m** | [ ] |
-| THM: [Windows Fundamentals 1 & 2](https://tryhackme.com/room/windowsfundamentals1xbx) | **60m** | [ ] |
+| THM: [Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101) | **20m** | [ ] |
+| THM: [Nessus](https://tryhackme.com/room/rpnessusredux) | **45m** | [ ] |
+| THM: [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx) | **30m** | [ ] |
+| THM: [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x) | **30m** | [ ] |
 
 ### Week 4 (March 26 - April 1) | *Est. Load: ~24.5 Hours*
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
 | INE: Host & Network Pen Testing - Network-Based Attacks | **4h 47m** | [ ] |
 | **INE: Metasploit Framework (PART 1)** | **~15h 0m** | [ ] |
-| THM: [Blue](https://tryhackme.com/room/blue) & [Ice](https://tryhackme.com/room/ice) | **1h 15m** | [ ] |
+| THM: [Blue](https://tryhackme.com/room/blue) | **30m** | [ ] |
+| THM: [Ice](https://tryhackme.com/room/ice) | **45m** | [ ] |
 | THM: [Dirty Pipe](https://tryhackme.com/room/dirtypipe) | **45m** | [ ] |
 | THM: [Wireshark: The Basics](https://tryhackme.com/room/wiresharkthebasics) | **60m** | [X] |
 
@@ -74,14 +79,16 @@
 | :--- | :--- | :---: |
 | **INE: Metasploit Framework (PART 2)** | **~20h 29m** | [ ] |
 | THM: [Metasploit: Intro, Exploit, Meterpreter](https://tryhackme.com/jr/metasploitintro) | **1h 10m** | [ ] |
-| THM: [HeartBleed](https://tryhackme.com/room/heartbleed) & [Deja Vu](https://tryhackme.com/room/dejavu) | **2h 30m** | [ ] |
+| THM: [HeartBleed](https://tryhackme.com/room/heartbleed) | **60m** | [ ] |
+| THM: [Deja Vu](https://tryhackme.com/room/dejavu) | **90m** | [ ] |
 
 ### Week 6 (April 9 - April 15) | *Est. Load: ~23.5 Hours*
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
 | INE: Host & Network Penetration Testing: Exploitation | **20h 49m** | [ ] |
 | THM: [What the Shell?](https://tryhackme.com/room/introtoshells) | **45m** | [ ] |
-| THM: [Steel Mountain](https://tryhackme.com/room/steelmountain) & [Poster](https://tryhackme.com/room/poster) | **1h 30m** | [ ] |
+| THM: [Steel Mountain](https://tryhackme.com/room/steelmountain) | **45m** | [ ] |
+| THM: [Poster](https://tryhackme.com/room/poster) | **45m** | [ ] |
 
 ---
 
@@ -98,7 +105,8 @@
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
 | **INE: Post-Exploitation (PART 2)** | **~11h 33m** | [ ] |
-| THM: [Bypassing UAC](https://tryhackme.com/room/bypassinguac) & [Cred Harvesting](https://tryhackme.com/room/credharvesting) | **2h 45m** | [ ] |
+| THM: [Bypassing UAC](https://tryhackme.com/room/bypassinguac) | **45m** | [ ] |
+| THM: [Cred Harvesting](https://tryhackme.com/room/credharvesting) | **2h 0m** | [ ] |
 | **THM: [Wreath (Part 1 - Networking/Setup)](https://tryhackme.com/room/wreath)** | **~4h 0m** | [ ] |
 
 ---
@@ -110,8 +118,10 @@
 | :--- | :--- | :---: |
 | INE: Web App Pen Testing - Intro to Web & HTTP | **11h 51m** | [ ] |
 | **THM: [Wreath (Part 2 - Exploitation/Pivoting)](https://tryhackme.com/room/wreath)** | **~4h 0m** | [ ] |
-| THM: [SQLMAP](https://tryhackme.com/room/sqlmap) & [Hydra](https://tryhackme.com/room/hydra) | **1h 15m** | [ ] |
-| THM: [OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop) & [Vulnversity](https://tryhackme.com/room/vulnversity) | **2h 45m** | [ ] |
+| THM: [SQLMAP](https://tryhackme.com/room/sqlmap) | **30m** | [ ] |
+| THM: [Hydra](https://tryhackme.com/room/hydra) | **45m** | [ ] |
+| THM: [OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop) | **2h 0m** | [ ] |
+| THM: [Vulnversity](https://tryhackme.com/room/vulnversity) | **45m** | [ ] |
 
 ### Week 10 (May 7 - May 13) | *Est. Load: ~8 Hours (Start Labs!)*
 | Task | Est. Time | Status |
@@ -124,7 +134,6 @@
 ---
 
 ## Phase 6: The INE Lab Purge (Weeks 11-12)
-
 
 ### Week 11 (May 14 - May 20)
 | Task | Status |
@@ -139,7 +148,6 @@
 | Repeat INE Labs: Network & System Attacks (All) | [ ] |
 | Repeat INE Labs: Black Box Audits (Zero Assistance) | [ ] |
 | **INE ACCESS EXPIRES ON MAY 26TH** | [ ] |
-
 
 ---
 
