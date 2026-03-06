@@ -45,8 +45,8 @@
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
 | INE: Assessment Methodologies - Footprinting & Scanning | **11h 16m** (V: 6h 6m / A: 5h 10m) | [ ] |
-| THM: [Active Recon](https://tryhackme.com/room/activerecon) | [ ] |
-| THM: [Nmap](https://tryhackme.com/room/furthernmap) | [ ] |
+| THM: [Active Recon](https://tryhackme.com/room/activerecon) | **60m** | [ ] |
+| THM: [Nmap](https://tryhackme.com/room/furthernmap) | **50m** | [ ] |
 | Blog: [Active vs Passive Recon](https://medium.com/@twistedcircuits/active-vs-passive-reconnaissance-understanding-the-difference-84d7c6d624b7) | [ ] |
 | Blog: [Understanding Reconnaissance and Footprinting](https://osintteam.blog/understanding-reconnaissance-and-footprinting-in-ethical-hacking-ff1a92a5a619) | [ ] |
 
@@ -58,8 +58,8 @@
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
 | INE: Assessment Methodologies - Enumeration | **8h 45m** (V: 2h 45m / A: 6h 0m) | [ ] |
-| THM: [Nmap Post Port Scan](https://tryhackme.com/room/nmap04) | [ ] |
-| THM: [Network Services](https://tryhackme.com/room/networkservices) | [ ] |
+| THM: [Nmap Post Port Scan](https://tryhackme.com/room/nmap04) | **60m** | [ ] |
+| THM: [Network Services](https://tryhackme.com/room/networkservices) | **60m** | [ ] |
 | Blog: [Enumerating a new network with Nmap](https://www.redhat.com/sysadmin/enumerating-network-nmap) | [ ] |
 | Blog: [Enumeration guide for beginners](https://www.hackercoolmagazine.com/enumeration-guide-for-beginners/) | [ ] |
 
@@ -81,8 +81,8 @@
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
 | INE: Assessment Methodologies - Auditing Fundamentals | **3h 58m** (V: 2h 38m / A: 1h 20m) | [ ] |
-| THM: [Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101) | [ ] |
-| THM: [Nessus](https://tryhackme.com/room/rpnessusredux) | [ ] |
+| THM: [Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101) | **20m** | [ ] |
+| THM: [Nessus](https://tryhackme.com/room/rpnessusredux) | **45m** | [ ] |
 | Blog: [Vulnerability Research 101](https://www.rezilion.com/blog/vulnerability-research-101/) | [ ] |
 | Blog: [What is a CVE?](https://www.redhat.com/en/topics/security/what-is-cve) | [ ] |
 
@@ -90,8 +90,8 @@
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
 | INE: Host & Network Pen Testing - System/Host Attacks | **20h 28m** (V: 7h 58m / A: 12h 30m) | [ ] |
-| THM: [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx) | [ ] |
-| THM: [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x) | [ ] |
+| THM: [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx) | **30m** | [ ] |
+| THM: [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x) | **30m** | [ ] |
 | Blog: [Exploit-DB Guide](https://www.hackers-arise.com/post/working-with-exploits-using-exploit-db-to-find-exploits) | [ ] |
 | Blog: [Attacking SMB via Metasploit/PSexec](https://michaelkoczwara.medium.com/attacking-smb-via-metasploit-and-psexec-734c7be88190) | [ ] |
 
@@ -103,21 +103,21 @@
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
 | INE: Host & Network Pen Testing - Network-Based Attacks | **4h 47m** (V: 2h 17m / A: 2h 30m) | [ ] |
-| THM: [Blue](https://tryhackme.com/room/blue) | [ ] |
-| THM: [Ice](https://tryhackme.com/room/ice) | [ ] 
-| THM: [Dirty Pipe: CVE-2022-0847](https://tryhackme.com/room/dirtypipe) | [ ] |
-| THM: [Wireshark: The Basics](https://tryhackme.com/room/wiresharkthebasics) | [ ] |
+| THM: [Blue](https://tryhackme.com/room/blue) | **30m** | [ ] |
+| THM: [Ice](https://tryhackme.com/room/ice) | **45m** | [ ] 
+| THM: [Dirty Pipe: CVE-2022-0847](https://tryhackme.com/room/dirtypipe) | **42m** | [ ] |
+| THM: [Wireshark: The Basics](https://tryhackme.com/room/wiresharkthebasics) | **60m** | [X] |
 
 ### Week 8 (April 23 - April 29)
 *Note: MSF is a massive module. Prioritize this week heavily.*
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
 | INE: Host & Network Pen Testing - Metasploit Framework | **35h 29m** (Breakdown N/A) | [ ] |
-| THM: [Metasploit: Introduction](https://tryhackme.com/jr/metasploitintro) | [ ] |
-| THM: [Metasploit: Exploitation](https://tryhackme.com/jr/metasploitexploitation) | [ ] |
-| THM: [Metasploit: Meterpreter](https://tryhackme.com/jr/meterpreter) | [ ] |
-| THM: [HeartBleed](https://tryhackme.com/room/heartbleed) | [ ] |
-| THM: [Deja Vu](https://tryhackme.com/room/dejavu) | [ ] |
+| THM: [Metasploit: Introduction](https://tryhackme.com/jr/metasploitintro) | **30m** | [ ] |
+| THM: [Metasploit: Exploitation](https://tryhackme.com/jr/metasploitexploitation) | **20m** | [ ] |
+| THM: [Metasploit: Meterpreter](https://tryhackme.com/jr/meterpreter) | **20m** | [ ] |
+| THM: [HeartBleed](https://tryhackme.com/room/heartbleed) | **60m** | [ ] |
+| THM: [Deja Vu](https://tryhackme.com/room/dejavu) | **90m** | [ ] |
 | Blog: [MSFVenom Guide](https://posts.slayerlabs.com/msfvenom-guide/) | [ ] |
 
 ---
@@ -128,9 +128,9 @@
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
 | INE: Host & Network Penetration Testing: Exploitation | **20h 49m** (V: 8h 19m / A: 12h 30m) | [ ] |
-| THM: [What the Shell?](https://tryhackme.com/room/introtoshells) | [ ] |
-| THM: [Steel Mountain](https://tryhackme.com/room/steelmountain) | [ ] |
-| THM: [Poster](https://tryhackme.com/room/poster) | [ ] |
+| THM: [What the Shell?](https://tryhackme.com/room/introtoshells) | **45m** | [ ] |
+| THM: [Steel Mountain](https://tryhackme.com/room/steelmountain) | **45m** | [ ] |
+| THM: [Poster](https://tryhackme.com/room/poster) | **45m** | [ ] |
 | Blog: [Reverse Shell vs Bind Shell](https://infosecwriteups.com/reverse-shell-vs-bind-shell-d5a1e80b6a6c) | [ ] |
 | Blog: [Use John the Ripper in Metasploit](https://null-byte.wonderhowto.com/how-to/use-john-ripper-metasploit-quickly-crack-windows-hashes-0200322/) | [ ] |
 
@@ -138,11 +138,11 @@
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
 | INE: Host & Network Penetration Testing: Post-Exploitation | **26h 33m** (V: 8h 43m / A: 17h 50m) | [ ] |
-| THM: [Windows PrivEsc](https://tryhackme.com/room/windows10privesc) & [Arena](https://tryhackme.com/room/windowsprivescarena) | [ ] |
-| THM: [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc) & [Arena](https://tryhackme.com/room/linuxprivescarena) | [ ] |
-| THM: [Bypassing UAC](https://tryhackme.com/room/bypassinguac) | [ ] |
-| THM: [Wreath (Pivoting Section)](https://tryhackme.com/room/wreath) | [ ] |
-| THM: [Credentials Harvesting](https://tryhackme.com/room/credharvesting) | [ ] |
+| THM: [Windows PrivEsc](https://tryhackme.com/room/windows10privesc) & [Arena](https://tryhackme.com/room/windowsprivescarena) | **2h 30m** | [ ] |
+| THM: [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc) & [Arena](https://tryhackme.com/room/linuxprivescarena) | **2h 30m** | [ ] |
+| THM: [Bypassing UAC](https://tryhackme.com/room/bypassinguac) | **45m** | [ ] |
+| THM: [Wreath (Pivoting Section)](https://tryhackme.com/room/wreath) | **8h** | [ ] |
+| THM: [Credentials Harvesting](https://tryhackme.com/room/credharvesting) | **2h** | [ ] |
 | Blog: [Pivoting Technique Guide](https://medium.com/@prithwishkumarpal/post-exploitation-technique-pivoting-dc688c400111) | [ ] |
 
 ---
@@ -155,11 +155,10 @@
 | INE: Web App Pen Testing - Intro to Web & HTTP | **11h 51m** (V: 6h 51m / A: 5h 0m) | [ ] |
 | INE: Host & Network Pen Testing - Social Engineering | **3h 11m** (V: 2h 11m / A: 1h 0m) | [ ] |
 | INE: Offensive AI - Generative AI for Pentesters | **4h 44m** (V: 2h 54m / A: 1h 50m) | [ ] |
-| THM: [OWASP Top 10](https://tryhackme.com/room/owasptop10) | [ ] |
-| THM: [SQLMAP](https://tryhackme.com/room/sqlmap) | [ ] |
-| THM: [OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop) | [ ] |
-| THM: [Vulnversity](https://tryhackme.com/room/vulnversity) | [ ] |
-| THM: [Hydra](https://tryhackme.com/room/hydra) | [ ] |
+| THM: [SQLMAP](https://tryhackme.com/room/sqlmap) | **30m** | [ ] |
+| THM: [OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop) | **2h** | [ ] |
+| THM: [Vulnversity](https://tryhackme.com/room/vulnversity) | **45m** | [ ] |
+| THM: [Hydra](https://tryhackme.com/room/hydra) | **45m** | [ ] |
 | **MARK ALL NEW CONTENT AS COMPLETE BY MAY 18** | - | [ ] |
 
 ---
