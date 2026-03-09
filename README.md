@@ -1,8 +1,3 @@
-<img src="banner/ejpt_image.jpeg" alt="Ejpt Roadmap Logo" height=350>
-
-<br>
-<hr>
-
 # Ejpt Roadmap: 11.5-Week Load-Balanced Sprint (March 9 - May 26)
 
 ## Table of Contents
@@ -161,3 +156,4 @@
 - [Notes by edoardottt](https://github.com/edoardottt/eJPT-notes)
 - [Cheatsheet by seergiovks](https://sezioss-gitbook.gitbook.io/ejptv2cheatsheet/)
 - [Cheatsheet by xalgord](https://github.com/xalgord/ejPTv2-Preparation)
+
