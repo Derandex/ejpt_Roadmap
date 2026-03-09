@@ -1,5 +1,9 @@
+<img src="banner/ejpt_image.jpeg" alt="Ejpt Roadmap Logo" height=350>
 
-# Ejpt Roadmap: 12-Week Load-Balanced Sprint (March 5 - May 26)
+<br>
+<hr>
+
+# Ejpt Roadmap: 11.5-Week Load-Balanced Sprint (March 9 - May 26)
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -26,7 +30,7 @@
 
 ## Phase 1: Recon & Enumeration (Weeks 1-2)
 
-### Week 1 (March 5 - March 11) | *Est. Load: ~20.5 Hours*
+### Week 1 (March 9 - March 15) | *Est. Load: ~20.5 Hours*
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
 | INE: Assessment Methodologies - Info Gathering | **5h 34m** | [ ] |
@@ -37,7 +41,7 @@
 | THM: [Active Recon](https://tryhackme.com/room/activerecon) | **60m** | [ ] |
 | THM: [Nmap](https://tryhackme.com/room/furthernmap) | **50m** | [ ] |
 
-### Week 2 (March 12 - March 18) | *Est. Load: ~18 Hours*
+### Week 2 (March 16 - March 22) | *Est. Load: ~18 Hours*
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
 | INE: Assessment Methodologies - Enumeration | **8h 45m** | [ ] |
@@ -50,7 +54,7 @@
 
 ## Phase 2: Vulns & System Attacks (Weeks 3-4)
 
-### Week 3 (March 19 - March 25) | *Est. Load: ~26 Hours*
+### Week 3 (March 23 - March 29) | *Est. Load: ~26 Hours*
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
 | INE: Assessment Methodologies - Auditing Fundamentals | **3h 58m** | [ ] |
@@ -60,7 +64,7 @@
 | THM: [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx) | **30m** | [ ] |
 | THM: [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x) | **30m** | [ ] |
 
-### Week 4 (March 26 - April 1) | *Est. Load: ~24.5 Hours*
+### Week 4 (March 30 - April 5) | *Est. Load: ~24.5 Hours*
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
 | INE: Host & Network Pen Testing - Network-Based Attacks | **4h 47m** | [ ] |
@@ -74,7 +78,7 @@
 
 ## Phase 3: The Metasploit Shift (Weeks 5-6)
 
-### Week 5 (April 2 - April 8) | *Est. Load: ~24 Hours*
+### Week 5 (April 6 - April 12) | *Est. Load: ~24 Hours*
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
 | **INE: Metasploit Framework (PART 2)** | **~20h 29m** | [ ] |
@@ -82,7 +86,7 @@
 | THM: [HeartBleed](https://tryhackme.com/room/heartbleed) | **60m** | [ ] |
 | THM: [Deja Vu](https://tryhackme.com/room/dejavu) | **90m** | [ ] |
 
-### Week 6 (April 9 - April 15) | *Est. Load: ~23.5 Hours*
+### Week 6 (April 13 - April 19) | *Est. Load: ~23.5 Hours*
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
 | INE: Host & Network Penetration Testing: Exploitation | **20h 49m** | [ ] |
@@ -94,14 +98,14 @@
 
 ## Phase 4: Exploitation & Post-Exploit (Weeks 7-8)
 
-### Week 7 (April 16 - April 22) | *Est. Load: ~20 Hours*
+### Week 7 (April 20 - April 26) | *Est. Load: ~20 Hours*
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
 | **INE: Post-Exploitation (PART 1)** | **~15h 0m** | [ ] |
 | THM: [Windows PrivEsc & Arena](https://tryhackme.com/room/windows10privesc) | **2h 30m** | [ ] |
 | THM: [Linux PrivEsc & Arena](https://tryhackme.com/room/linuxprivesc) | **2h 30m** | [ ] |
 
-### Week 8 (April 23 - April 29) | *Est. Load: ~18.5 Hours*
+### Week 8 (April 27 - May 3) | *Est. Load: ~18.5 Hours*
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
 | **INE: Post-Exploitation (PART 2)** | **~11h 33m** | [ ] |
@@ -113,7 +117,7 @@
 
 ## Phase 5: Web Apps, AI & Wreath (Weeks 9-10)
 
-### Week 9 (April 30 - May 6) | *Est. Load: ~20 Hours*
+### Week 9 (May 4 - May 10) | *Est. Load: ~20 Hours*
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
 | INE: Web App Pen Testing - Intro to Web & HTTP | **11h 51m** | [ ] |
@@ -123,7 +127,7 @@
 | THM: [OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop) | **2h 0m** | [ ] |
 | THM: [Vulnversity](https://tryhackme.com/room/vulnversity) | **45m** | [ ] |
 
-### Week 10 (May 7 - May 13) | *Est. Load: ~8 Hours (Start Labs!)*
+### Week 10 (May 11 - May 17) | *Est. Load: ~8 Hours (Start Labs!)*
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
 | INE: Host & Network Pen Testing - Social Engineering | **3h 11m** | [ ] |
@@ -135,14 +139,14 @@
 
 ## Phase 6: The INE Lab Purge (Weeks 11-12)
 
-### Week 11 (May 14 - May 20)
+### Week 11 (May 18 - May 24)
 | Task | Status |
 | :--- | :---: |
 | Repeat INE Labs: Metasploit Framework (All) | [ ] |
 | Repeat INE Labs: Exploitation (All) | [ ] |
 | Repeat INE Labs: Post-Exploitation (All) | [ ] |
 
-### Week 12 (May 21 - May 25)
+### Week 12 (May 25 - May 26)
 | Task | Status |
 | :--- | :---: |
 | Repeat INE Labs: Network & System Attacks (All) | [ ] |
