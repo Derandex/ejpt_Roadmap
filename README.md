@@ -28,7 +28,7 @@
 ### Week 1 (March 9 - March 15) | *Est. Load: ~20.5 Hours*
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
-| INE: Assessment Methodologies - Info Gathering | **5h 34m** | [ ] |
+| INE: Assessment Methodologies - Info Gathering | **5h 34m** | [X] |
 | INE: Assessment Methodologies - Footprinting & Scanning | **11h 16m** | [ ] |
 | THM: [Hacker Methodology](https://tryhackme.com/room/hackermethodology) | **45m** | [ ] |
 | THM: [Intro To Research](https://tryhackme.com/room/introtoresearch) | **45m** | [ ] |
