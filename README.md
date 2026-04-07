@@ -29,21 +29,21 @@
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
 | INE: Assessment Methodologies - Info Gathering | **5h 34m** | [X] |
-| INE: Assessment Methodologies - Footprinting & Scanning | **11h 16m** | [ ] |
-| THM: [Hacker Methodology](https://tryhackme.com/room/hackermethodology) | **45m** | [ ] |
-| THM: [Intro To Research](https://tryhackme.com/room/introtoresearch) | **45m** | [ ] |
-| THM: [Passive Recon](https://tryhackme.com/room/passiverecon) | **60m** | [ ] |
-| THM: [Active Recon](https://tryhackme.com/room/activerecon) | **60m** | [ ] |
-| THM: [Nmap](https://tryhackme.com/room/furthernmap) | **50m** | [ ] |
+| INE: Assessment Methodologies - Footprinting & Scanning | **11h 16m** | [X] |
+| THM: [Hacker Methodology](https://tryhackme.com/room/hackermethodology) | **45m** | [x] |
+| THM: [Intro To Research](https://tryhackme.com/room/introtoresearch) | **45m** | [x] |
+| THM: [Passive Recon](https://tryhackme.com/room/passiverecon) | **60m** | [x] |
+| THM: [Active Recon](https://tryhackme.com/room/activerecon) | **60m** | [x] |
+| THM: [Nmap](https://tryhackme.com/room/furthernmap) | **50m** | [X] |
 
 ### Week 2 (March 16 - March 22) | *Est. Load: ~18 Hours*
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
-| INE: Assessment Methodologies - Enumeration | **8h 45m** | [ ] |
-| INE: Assessment Methodologies - Vulnerability Assessment | **7h 1m** | [ ] |
-| THM: [Nmap Post Port Scan](https://tryhackme.com/room/nmap04) | **60m** | [ ] |
-| THM: [Network Services](https://tryhackme.com/room/networkservices) | **60m** | [ ] |
-| Review: Recon & Enum Blog Posts | **~1h** | [ ] |
+| INE: Assessment Methodologies - Enumeration | **8h 45m** | [X] |
+| INE: Assessment Methodologies - Vulnerability Assessment | **7h 1m** | [X] |
+| THM: [Nmap Post Port Scan](https://tryhackme.com/room/nmap04) | **60m** | [X] |
+| THM: [Network Services](https://tryhackme.com/room/networkservices) | **60m** | [X] |
+| Review: Recon & Enum Blog Posts | **~1h** | [X] |
 
 ---
 
@@ -52,21 +52,21 @@
 ### Week 3 (March 23 - March 29) | *Est. Load: ~26 Hours*
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
-| INE: Assessment Methodologies - Auditing Fundamentals | **3h 58m** | [ ] |
-| INE: Host & Network Pen Testing - System/Host Attacks | **20h 28m** | [ ] |
-| THM: [Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101) | **20m** | [ ] |
-| THM: [Nessus](https://tryhackme.com/room/rpnessusredux) | **45m** | [ ] |
-| THM: [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx) | **30m** | [ ] |
-| THM: [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x) | **30m** | [ ] |
+| INE: Assessment Methodologies - Auditing Fundamentals | **3h 58m** | [X] |
+| INE: Host & Network Pen Testing - System/Host Attacks | **20h 28m** | [X] |
+| THM: [Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101) | **20m** | [X] |
+| THM: [Nessus](https://tryhackme.com/room/rpnessusredux) | **45m** | [X] |
+| THM: [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx) | **30m** | [X] |
+| THM: [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x) | **30m** | [X] |
 
 ### Week 4 (March 30 - April 5) | *Est. Load: ~24.5 Hours*
 | Task | Est. Time | Status |
 | :--- | :--- | :---: |
-| INE: Host & Network Pen Testing - Network-Based Attacks | **4h 47m** | [ ] |
-| **INE: Metasploit Framework (PART 1)** | **~15h 0m** | [ ] |
-| THM: [Blue](https://tryhackme.com/room/blue) | **30m** | [ ] |
-| THM: [Ice](https://tryhackme.com/room/ice) | **45m** | [ ] |
-| THM: [Dirty Pipe](https://tryhackme.com/room/dirtypipe) | **45m** | [ ] |
+| INE: Host & Network Pen Testing - Network-Based Attacks | **4h 47m** | [X] |
+| **INE: Metasploit Framework (PART 1)** | **~15h 0m** | [X] |
+| THM: [Blue](https://tryhackme.com/room/blue) | **30m** | [X] |
+| THM: [Ice](https://tryhackme.com/room/ice) | **45m** | [X] |
+| THM: [Dirty Pipe](https://tryhackme.com/room/dirtypipe) | **45m** | [X] |
 | THM: [Wireshark: The Basics](https://tryhackme.com/room/wiresharkthebasics) | **60m** | [X] |
 
 ---
